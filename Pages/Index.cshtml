@@ -1,0 +1,25 @@
+@page
+@model GRazor.Pages.Index
+
+
+<div class="col-md-12">
+  <div class="owl-carousel owl-theme">    
+    
+      @foreach (var product in @Model.productsList)
+      {
+        <div class="featured-item">
+            <img src="images\@product.Image" alt="Item 1">
+            <h4>@product.Title</h4>
+            <h6>@product.Price.ToString(format:"C")</h6>
+            <button class="btn btn-secondary" type="button" data-bs-toggle="modal"
+              data-bs-target="#modal-1">Descrição @product.Id</button>
+            <a href="https://techgolinfo.com.br/kingstar-headset-wired-gamer-rgb-63ce1184edd6a/p">Ver na
+              loja</a>
+        </div>  
+      }
+      
+  </div>
+</div>
+@section scripts{
+  <script src="~/js/scripts.js"></script>
+}
