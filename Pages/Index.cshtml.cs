@@ -7,8 +7,7 @@ public class Index : PageModel
   public List<Produtos> productsList { get; set; } = new();
 
   public async Task OnGet()
-  {
-    await Task.Delay(5000);
+  {   
 
     for (int i = 1; i <= 5; i++)
     {

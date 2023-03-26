@@ -18655,6 +18655,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\gbriDev\\Demo\\MyAppRazor\\GRazor\\Pages\\Login.cshtml",
+      "TargetPath": "Pages\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\gbriDev\\Demo\\MyAppRazor\\GRazor\\Pages\\Products\\Edit.cshtml",
       "TargetPath": "Pages\\Products\\Edit.cshtml",
       "FileKind": "mvc"

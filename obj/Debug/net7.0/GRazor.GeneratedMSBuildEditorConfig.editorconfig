@@ -9,53 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GRazor
 build_property.RootNamespace = GRazor
-build_property.ProjectDir = d:\gbriDev\Demo\MyAppRazor\GRazor\
+build_property.ProjectDir = D:\gbriDev\Demo\MyAppRazor\GRazor\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\gbriDev\Demo\MyAppRazor\GRazor
+build_property.MSBuildProjectDirectory = D:\gbriDev\Demo\MyAppRazor\GRazor
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/gbriDev/Demo/MyAppRazor/GRazor/Pages/Index.cshtml]
+[D:/gbriDev/Demo/MyAppRazor/GRazor/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/gbriDev/Demo/MyAppRazor/GRazor/Pages/Products/Create.cshtml]
+[D:/gbriDev/Demo/MyAppRazor/GRazor/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/gbriDev/Demo/MyAppRazor/GRazor/Pages/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/gbriDev/Demo/MyAppRazor/GRazor/Pages/Products/Delete.cshtml]
+[D:/gbriDev/Demo/MyAppRazor/GRazor/Pages/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/gbriDev/Demo/MyAppRazor/GRazor/Pages/Products/Details.cshtml]
+[D:/gbriDev/Demo/MyAppRazor/GRazor/Pages/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/gbriDev/Demo/MyAppRazor/GRazor/Pages/Products/Edit.cshtml]
+[D:/gbriDev/Demo/MyAppRazor/GRazor/Pages/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/gbriDev/Demo/MyAppRazor/GRazor/Pages/Products/Index.cshtml]
+[D:/gbriDev/Demo/MyAppRazor/GRazor/Pages/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/gbriDev/Demo/MyAppRazor/GRazor/Pages/Shared/NavMenuPartial.cshtml]
+[D:/gbriDev/Demo/MyAppRazor/GRazor/Pages/Shared/NavMenuPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXE5hdk1lbnVQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/gbriDev/Demo/MyAppRazor/GRazor/Pages/Shared/_Layout.cshtml]
+[D:/gbriDev/Demo/MyAppRazor/GRazor/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/gbriDev/Demo/MyAppRazor/GRazor/Pages/_ValidationScriptsPartial.cshtml]
+[D:/gbriDev/Demo/MyAppRazor/GRazor/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/gbriDev/Demo/MyAppRazor/GRazor/Pages/_ViewImports.cshtml]
+[D:/gbriDev/Demo/MyAppRazor/GRazor/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/gbriDev/Demo/MyAppRazor/GRazor/Pages/_ViewStart.cshtml]
+[D:/gbriDev/Demo/MyAppRazor/GRazor/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
